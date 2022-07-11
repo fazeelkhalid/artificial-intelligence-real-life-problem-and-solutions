@@ -1,9 +1,9 @@
 # artificial intelligence lab
  All solved lab of FAST NUCES Lahore campus _ 2022 Spring
 
------------------------------------------------------------------------------------
-                                    LAB - 2
------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------
+#                                   LAB - 2
+# -----------------------------------------------------------------------------------
 
 # Question 1.1:  
     Concatenate two lists 
@@ -47,9 +47,10 @@
     }
 
 
------------------------------------------------------------------------------------
-                                    LAB - 3
------------------------------------------------------------------------------------
+# -----------------------------------------------------------------------------------
+#                                    LAB - 3
+# -----------------------------------------------------------------------------------
+
 # Question 1:
     Write a Python program to find the length of a set, apply all sets
     operations(union,intersection) and print the results,find maximum and the minimum value in a
@@ -70,3 +71,19 @@
     Write a function to add, mul, divide two numbers x and y. Implement exception handling
     technique
     (try..except clause) for handling possible exceptions in the scenario.
+
+# -----------------------------------------------------------------------------------
+#                                    LAB - 3
+# -----------------------------------------------------------------------------------
+
+# Question 1:
+    For a list of integers, find square and cube for each value using lambda function.
+
+# Question 2:
+    Form a queue such that it works in FIFO order
+
+# Question 3:
+    Create a class for rectangle shape that calculates its area based upon the length and width
+
+# Question 4:
+    Write a Python class named Circle constructed by a radius and two methods which will compute the area and the perimeter of a circle.
