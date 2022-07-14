@@ -1,6 +1,10 @@
 # artificial intelligence lab
  All solved lab of FAST NUCES Lahore campus _ 2022 Spring
 
+
+
+
+
 # ----------------------------------------------------------------
 #                                   LAB - 2
 # ----------------------------------------------------------------
@@ -47,6 +51,10 @@
     }
 
 
+
+
+
+
 # ----------------------------------------------------------------
 #                                    LAB - 3
 # ----------------------------------------------------------------
@@ -72,6 +80,12 @@
     technique
     (try..except clause) for handling possible exceptions in the scenario.
 
+
+
+
+
+
+
 # ----------------------------------------------------------------
 #                                    LAB - 4
 # ----------------------------------------------------------------
@@ -87,6 +101,12 @@
 
 # Question 4:
     Write a Python class named Circle constructed by a radius and two methods which will compute the area and the perimeter of a circle.
+
+
+
+
+
+
 
 
 # ----------------------------------------------------------------
