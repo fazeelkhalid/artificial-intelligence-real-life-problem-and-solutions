@@ -73,7 +73,7 @@
     (try..except clause) for handling possible exceptions in the scenario.
 
 # ----------------------------------------------------------------
-#                                    LAB - 3
+#                                    LAB - 4
 # ----------------------------------------------------------------
 
 # Question 1:
@@ -87,3 +87,46 @@
 
 # Question 4:
     Write a Python class named Circle constructed by a radius and two methods which will compute the area and the perimeter of a circle.
+
+
+# ----------------------------------------------------------------
+#                                    LAB - 5
+# ----------------------------------------------------------------
+
+# Question 1:
+    4.1	NumPy is a library for the Python which adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. Create two arrays A= [1,2,3,2,3,4,3,4,5,6] and B= [7,2,10,2,7,4,9,4,9,8]. You need to get the positions where elements of A and B match. Use a numpy function or implement your own logic. 
+    Desired Outcome:
+    [1, 3, 5, 7]
+
+# Question 2:
+
+    4.2.1   You need to findinsights about data using as many different techniques as you can. Don’t use libraries that haven’t been covered yet.
+
+    Hint: Explore the dataset, look for the outliers, missing values, etc
+    Use the automobile data set provided in the Google class room to explore EDA functions.
+
+        1.	Check first five entries of data set.   # data.head().
+        2.	Check last five entries of dataset.# data.tail().
+        3.	Check the columns of data set.# data.columns.
+        4.	Check unique values for each column    # data.numique().
+        5.	Check the missing values for each column.   # data.isnull().sum().
+        6.	Drop unnecessary data columns     # new_data= data.drop([‘column_name’,‘second_column_name’], axis=1).
+        7.	Drop null value. #df.dropna(subset=df.columns,inplace=True) 
+
+# Question 3:
+    4.2.2	Data Analysis is the process of exploring and analyzing large datasets to make predictions and decisions. It involves a broad set of activities to clean, process, transform a data collection to learn from it and derive meaningful insights. Its profound application can be seen in analysing consumer behaviour in retail industry to reach out to the right customers and perform targeted marketing to increase sales. One sample dataset has been provided which lists various features of cars. You need to use your data analysis skills in answering the questions given ahead. 
+
+        (Libraries Involved: Numpy, Pandas)
+        Dataset: automobile_data.csv
+        Initial Steps: 
+        •	Import necessary libraries
+        •	Upload/Read the csv file using pandas
+        •	Review the dataset for identifying any missing values
+        •	Observe the different attributes and entries
+
+        Questions
+        a.	Find the most expensive car from the dataset and display its price
+        b.	Calculate total cars per manufacturer and show the result
+        c.	Read the details of vehicles against Toyota manufacturer and print them
+        d.	Arrange the cars according to the prices (highest-lowest) and display relevant information for first 5 rows only
+
