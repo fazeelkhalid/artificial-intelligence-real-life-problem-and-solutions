@@ -110,6 +110,51 @@
 
 
 # ----------------------------------------------------------------
+#                                    LAB - 5
+# ----------------------------------------------------------------
+
+# Question 1:
+    Write a Python program to filter a list of integers using Lambda.
+    Original list of integers:
+    [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    Even numbers from the said list:
+    [2, 4, 6, 8, 10]
+    Odd numbers from the said list:
+    [1, 3, 5, 7, 9]
+
+# Question 2:
+    Design a code which reads text from the file “Alphabets.txt” and stores its data in reverse order in another file. For this you may upload the given text file on Google Collab’s session and define the path as:
+    file_path= ‘/Alphabets.txt’
+    The same convention can be followed for defining path of the resultant file (reversed text file).
+
+# Question 3:
+    Create an iterator that returns numbers, starting with 1, and each sequence will increase by one (returning 1,2,3,4,5 etc.):
+
+# Question 4:
+    Create a class for rectangle shape that calculates its area based upon the length and width. Make a sub class of triangle called Trapezium, such that it inherits the functionality of rectangle class and implements area method of its own. Length and width should be defined in the constructor of rectangle class.
+    Area
+    Area of Rectangle =Length+Width
+    Area of Trapezium=½*(l+w)*h
+
+    After creation of the class, define the relevant attributes. Define a function for area computation and then a function for displaying area. Incorporate your knowledge of class and objects here.
+
+# Question 5:
+    Write a function AMCount() in Python, which should read each character of a text file STORY.TXT, should count and display the occurrence of alphabets A and M (including small cases a and m too).
+    For Example:
+    If the file content is as follows:
+    “Updated information
+    As simplified by official websites.”
+    The EUCount() function should display the output as:
+    A or a:4
+    M or m :2
+
+
+
+
+
+
+
+# ----------------------------------------------------------------
 #                                    LAB - 6
 # ----------------------------------------------------------------
 
@@ -149,4 +194,5 @@
         b.	Calculate total cars per manufacturer and show the result
         c.	Read the details of vehicles against Toyota manufacturer and print them
         d.	Arrange the cars according to the prices (highest-lowest) and display relevant information for first 5 rows only
+
 
