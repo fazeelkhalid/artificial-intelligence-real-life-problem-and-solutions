@@ -196,3 +196,24 @@
         d.	Arrange the cars according to the prices (highest-lowest) and display relevant information for first 5 rows only
 
 
+
+
+
+
+
+
+
+
+# ----------------------------------------------------------------
+#                                    LAB - 7
+# ----------------------------------------------------------------
+
+
+# Question 1
+	Make a Soccer PlayerWeight PieChart (20 Marks)
+    Consider the following dataset: fifa_data.csv
+    Make a pie chart using Matplotlib, similar to the one shown below:
+
+ 
+# Question 2	Create a Histogram, Bar-graph, and Box plot as well.
+
