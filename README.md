@@ -217,3 +217,23 @@
  
 # Question 2	Create a Histogram, Bar-graph, and Box plot as well.
 
+
+
+
+
+
+
+
+
+
+# ----------------------------------------------------------------
+#                                    LAB - 8
+# ----------------------------------------------------------------
+
+# Question 1:
+    Run the given code and verify the solution. Change given expression to any other expression of your choice; change the parameters to increase the efficiency of code if possible. 
+
+# Question 2:
+    Implement 8-queen problem using genetic algorithm. 
+    For help regarding representation of states you may watch the following video:
+    https://www.youtube.com/watch?v=vXotl0NPeUU
