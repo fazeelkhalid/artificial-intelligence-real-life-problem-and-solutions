@@ -237,3 +237,17 @@
     Implement 8-queen problem using genetic algorithm. 
     For help regarding representation of states you may watch the following video:
     https://www.youtube.com/watch?v=vXotl0NPeUU
+
+
+
+
+
+
+
+
+
+
+
+# ----------------------------------------------------------------
+#                                    LAB - 9
+# ----------------------------------------------------------------
