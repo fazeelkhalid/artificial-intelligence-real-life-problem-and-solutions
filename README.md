@@ -271,3 +271,13 @@
     # show the figure
     pyplot.show()
 
+# Question 2:
+    Once you have made your predictions using the test split of the MNIST dataset, you are required to test the accuracy of your model on real-world data. 
+    In order to achieve this task, you are required to:
+    •	Make your own handwritten digits from 0-9 using paint or any other online tool available. 
+    •	Use different brush strokes of different sizes to diversify your test data.
+    •	Load these images as a dataset into your Python notebook. 
+    •	Convert these images into grayscale as well as resize them to 28 by 28 dimensions using Python (Use any Python library like OpenCV, PIL, or scikit-image). 
+    •	Provide these images to your trained digit classifier. 
+    •	Observe the model predictions.
+    For some inspiration, you can also visit this link: https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html
