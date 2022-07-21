@@ -281,3 +281,22 @@
     •	Provide these images to your trained digit classifier. 
     •	Observe the model predictions.
     For some inspiration, you can also visit this link: https://scikit-learn.org/stable/auto_examples/classification/plot_digits_classification.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+# ----------------------------------------------------------------
+#                                    LAB - 9
+# ----------------------------------------------------------------
+
+# Question 1:
+    
