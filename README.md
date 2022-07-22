@@ -334,11 +334,11 @@ We can also represent the formula in vector notation
 
 The output equation would look like:
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab11/3.png)
 
 To find the coefficient values, we use the ordinary least square method which minimizes the sum of the square of the residuals. The formula for resulting coefficients in vector notation is:
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab11/4.png)
 
 
 The derivation of this formula is out of the scope of this lab.If you want to learn, read more about it here: https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf
@@ -347,7 +347,7 @@ The outcome of the algorithm, beta β with a hat (^) on top, is a vector contain
 
 Assuming that you have a number of predictions for some observed data, how can you measure how well the model predicted the ground truth? You can measure the accuracy of how well the multiple linear regression model performs by using a metric called r squared.
 
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+![plot](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab11/5.png)
 
 
 •	yi is one value of y at index i.
