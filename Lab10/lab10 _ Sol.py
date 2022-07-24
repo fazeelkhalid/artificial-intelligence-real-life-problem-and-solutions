@@ -20,7 +20,7 @@ plt.show()
 
 
 # Q1
-%matplotlib inline
+%matplotlib inline # comment it if you are not using jupyter notebook
 df = pd.read_excel("OnlineRetail (1).xlsx")
 df.head(5)
 df = df.drop(columns=['StockCode', 'InvoiceNo',
