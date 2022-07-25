@@ -49,11 +49,9 @@
     }<br>
 
 
-# ----------------------------------------------------------------
-#                                    LAB - 3
-# ----------------------------------------------------------------
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab3"><h1>LAB - 3</h1></a>
 
-# Question 1:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab2/Q1.py"><h3 align="center" >Question 1:  </h3></a>
     Write a Python program to find the length of a set, apply all sets
     operations(union,intersection) and print the results,find maximum and the minimum value in a
     set,create a shallow copy of sets,check if a set is a subset of another set, remove all elements
@@ -61,15 +59,15 @@
     superset of itself and superset of another given set.
     set1 = {1,2,3,4,5}
     set2 = {4,5,6,7,8}
-
-# Question 2:
+    
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab2/Q1.py"><h3 align="center" >Question 2:  </h3></a>
     Python program to count the number of vowels using sets in a given string.
     sample output
     Input : Hello World
     Output : No. of vowels : 3
     2: Exception Handling (10 marks)
 
-# Question 3:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab2/Q1.py"><h3 align="center" >Question 3:  </h3></a>
     Write a function to add, mul, divide two numbers x and y. Implement exception handling
     technique
     (try..except clause) for handling possible exceptions in the scenario.
