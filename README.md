@@ -7,26 +7,26 @@
 
 #                                   LAB - 2
 
-## Question 1.1:  
+### Question 1.1:  
     Concatenate two lists 
     Write a program to add two lists index-wise. Create a new list that contains the 0th index item from both the list, then the 1st index item, and so on till the last element. any leftover items will get added at the end of the new list.
 
-# Question 1.2:   
+### Question 1.2:   
     Convert a tuple to a Dictionary. (3 Marks)
     Write a Python program to convert a tuple to a dictionary. 
     Sample Output: {'w': 2, 'r': 3}
 
-# Question 1.3:
+### Question 1.3:
     Reverse a tuple (2 Marks)
     Write a Python program to reverse a tuple.
 
-# Question 1.4:
+### Question 1.4:
     Sort a Tuple (3 Marks)
     Sort a tuple of tuples by 2nd item.
     Given: tuple1 = (('a', 23),('b', 37),('c', 11), ('d',29))
     Expected: (('c', 11), ('a', 23), ('d', 29), ('b', 37))
 
-# Question 1.5:
+### Question 1.5:
     Create a Dictionary (5 Marks)
     Write a Python program to create a new dictionary by extracting the mentioned keys from the below dictionary.
     Sample Dictionary:
@@ -38,7 +38,7 @@
     # Keys to extract
     keys = ["name", "salary"]
 
-# Question 1.6:
+### Question 1.6:
     Nested Dictionary (5 Marks)
     Write a Python program to change Brad’s salary to 8500 in the following dictionary.
     Given:
