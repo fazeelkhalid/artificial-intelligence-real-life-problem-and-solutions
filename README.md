@@ -145,41 +145,36 @@
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab6"><h1>LAB - 6</h1></a>
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab6/Lab6%20Solution.ipynb"><h3 align="center" >Question 1:  </h3></a>
-    4.1	NumPy is a library for the Python which adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. Create two arrays A= [1,2,3,2,3,4,3,4,5,6] and B= [7,2,10,2,7,4,9,4,9,8]. You need to get the positions where elements of A and B match. Use a numpy function or implement your own logic. 
-    Desired Outcome:
-    [1, 3, 5, 7]
-
-# Question 2:
-
+    4.1	NumPy is a library for the Python which adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. Create two arrays A= [1,2,3,2,3,4,3,4,5,6] and B= [7,2,10,2,7,4,9,4,9,8]. You need to get the positions where elements of A and B match. Use a numpy function or implement your own logic. <br>
+    Desired Outcome:<br>
+    [1, 3, 5, 7]<br>
+    
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab6/Lab6%20Solution.ipynb"><h3 align="center" >Question 2:  </h3></a>
     4.2.1   You need to findinsights about data using as many different techniques as you can. Don’t use libraries that haven’t been covered yet.
+    Hint: Explore the dataset, look for the outliers, missing values, etc <br>
+    Use the automobile data set provided in the Google class room to explore EDA functions.<br>
+        1.	Check first five entries of data set.   # data.head().<br>
+        2.	Check last five entries of dataset.# data.tail().<br>
+        3.	Check the columns of data set.# data.columns.<br>
+        4.	Check unique values for each column    # data.numique().<br>
+        5.	Check the missing values for each column.   # data.isnull().sum().<br>
+        6.	Drop unnecessary data columns     # new_data= data.drop([‘column_name’,‘second_column_name’], axis=1).<br>
+        7.	Drop null value. #df.dropna(subset=df.columns,inplace=True)<br>
 
-    Hint: Explore the dataset, look for the outliers, missing values, etc
-    Use the automobile data set provided in the Google class room to explore EDA functions.
-
-        1.	Check first five entries of data set.   # data.head().
-        2.	Check last five entries of dataset.# data.tail().
-        3.	Check the columns of data set.# data.columns.
-        4.	Check unique values for each column    # data.numique().
-        5.	Check the missing values for each column.   # data.isnull().sum().
-        6.	Drop unnecessary data columns     # new_data= data.drop([‘column_name’,‘second_column_name’], axis=1).
-        7.	Drop null value. #df.dropna(subset=df.columns,inplace=True) 
-
-# Question 3:
-    4.2.2	Data Analysis is the process of exploring and analyzing large datasets to make predictions and decisions. It involves a broad set of activities to clean, process, transform a data collection to learn from it and derive meaningful insights. Its profound application can be seen in analysing consumer behaviour in retail industry to reach out to the right customers and perform targeted marketing to increase sales. One sample dataset has been provided which lists various features of cars. You need to use your data analysis skills in answering the questions given ahead. 
-
-        (Libraries Involved: Numpy, Pandas)
-        Dataset: automobile_data.csv
-        Initial Steps: 
-        •	Import necessary libraries
-        •	Upload/Read the csv file using pandas
-        •	Review the dataset for identifying any missing values
-        •	Observe the different attributes and entries
-
-        Questions
-        a.	Find the most expensive car from the dataset and display its price
-        b.	Calculate total cars per manufacturer and show the result
-        c.	Read the details of vehicles against Toyota manufacturer and print them
-        d.	Arrange the cars according to the prices (highest-lowest) and display relevant information for first 5 rows only
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab6/Lab6%20Solution.ipynb"><h3 align="center" >Question 3:  </h3></a>
+    4.2.2	Data Analysis is the process of exploring and analyzing large datasets to make predictions and decisions. It involves a broad set of activities to clean, process, transform a data collection to learn from it and derive meaningful insights. Its profound application can be seen in analysing consumer behaviour in retail industry to reach out to the right customers and perform targeted marketing to increase sales. One sample dataset has been provided which lists various features of cars. You need to use your data analysis skills in answering the questions given ahead. <br>
+        (Libraries Involved: Numpy, Pandas)<br>
+        Dataset: automobile_data.csv<br>
+        Initial Steps: <br>
+        •	Import necessary libraries<br>
+        •	Upload/Read the csv file using pandas<br>
+        •	Review the dataset for identifying any missing values<br>
+        •	Observe the different attributes and entries<br>
+        Questions<br>
+        a.	Find the most expensive car from the dataset and display its price<br>
+        b.	Calculate total cars per manufacturer and show the result<br>
+        c.	Read the details of vehicles against Toyota manufacturer and print them<br>
+        d.	Arrange the cars according to the prices (highest-lowest) and display relevant information for first 5 rows only<br>
 
 
 
