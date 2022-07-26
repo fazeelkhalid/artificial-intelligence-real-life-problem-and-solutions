@@ -81,16 +81,16 @@
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4"><h1>LAB - 4</h1></a>
 
-# Question 1:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q1.py"><h3 align="center" >Question 1:  </h3></a>
     For a list of integers, find square and cube for each value using lambda function.
 
-# Question 2:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q2.py"><h3 align="center" >Question 2:  </h3></a>
     Form a queue such that it works in FIFO order
 
-# Question 3:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q3.py"><h3 align="center" >Question 3:  </h3></a>
     Create a class for rectangle shape that calculates its area based upon the length and width
 
-# Question 4:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 4:  </h3></a>
     Write a Python class named Circle constructed by a radius and two methods which will compute the area and the perimeter of a circle.
 
 
