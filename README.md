@@ -138,16 +138,13 @@
     M or m :2<br>
 
 
+<br>
+<br>
+<br>
 
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab6"><h1>LAB - 6</h1></a>
 
-
-
-
-# ----------------------------------------------------------------
-#                                    LAB - 6
-# ----------------------------------------------------------------
-
-# Question 1:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab6/Lab6%20Solution.ipynb"><h3 align="center" >Question 1:  </h3></a>
     4.1	NumPy is a library for the Python which adds support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays. Create two arrays A= [1,2,3,2,3,4,3,4,5,6] and B= [7,2,10,2,7,4,9,4,9,8]. You need to get the positions where elements of A and B match. Use a numpy function or implement your own logic. 
     Desired Outcome:
     [1, 3, 5, 7]
