@@ -153,28 +153,28 @@
     4.2.1   You need to findinsights about data using as many different techniques as you can. Don’t use libraries that haven’t been covered yet.
     Hint: Explore the dataset, look for the outliers, missing values, etc <br>
     Use the automobile data set provided in the Google class room to explore EDA functions.<br>
-        1.	Check first five entries of data set.   # data.head().<br>
-        2.	Check last five entries of dataset.# data.tail().<br>
-        3.	Check the columns of data set.# data.columns.<br>
-        4.	Check unique values for each column    # data.numique().<br>
-        5.	Check the missing values for each column.   # data.isnull().sum().<br>
-        6.	Drop unnecessary data columns     # new_data= data.drop([‘column_name’,‘second_column_name’], axis=1).<br>
-        7.	Drop null value. #df.dropna(subset=df.columns,inplace=True)<br>
+        ** 1.	Check first five entries of data set.   # data.head().<br>
+        ** 2.	Check last five entries of dataset.# data.tail().<br>
+        ** 3.	Check the columns of data set.# data.columns.<br>
+        ** 4.	Check unique values for each column    # data.numique().<br>
+        ** 5.	Check the missing values for each column.   # data.isnull().sum().<br>
+        ** 6.	Drop unnecessary data columns     # new_data= data.drop([‘column_name’,‘second_column_name’], axis=1).<br>
+        ** 7.	Drop null value. #df.dropna(subset=df.columns,inplace=True)<br>
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab6/Lab6%20Solution.ipynb"><h3 align="center" >Question 3:  </h3></a>
     4.2.2	Data Analysis is the process of exploring and analyzing large datasets to make predictions and decisions. It involves a broad set of activities to clean, process, transform a data collection to learn from it and derive meaningful insights. Its profound application can be seen in analysing consumer behaviour in retail industry to reach out to the right customers and perform targeted marketing to increase sales. One sample dataset has been provided which lists various features of cars. You need to use your data analysis skills in answering the questions given ahead. <br>
         (Libraries Involved: Numpy, Pandas)<br>
         Dataset: automobile_data.csv<br>
         Initial Steps: <br>
-        •	Import necessary libraries<br>
-        •	Upload/Read the csv file using pandas<br>
-        •	Review the dataset for identifying any missing values<br>
-        •	Observe the different attributes and entries<br>
+        ** •	Import necessary libraries<br>
+        ** •	Upload/Read the csv file using pandas<br>
+        ** •	Review the dataset for identifying any missing values<br>
+        ** •	Observe the different attributes and entries<br>
         Questions<br>
-        a.	Find the most expensive car from the dataset and display its price<br>
-        b.	Calculate total cars per manufacturer and show the result<br>
-        c.	Read the details of vehicles against Toyota manufacturer and print them<br>
-        d.	Arrange the cars according to the prices (highest-lowest) and display relevant information for first 5 rows only<br>
+        ** a.	Find the most expensive car from the dataset and display its price<br>
+        ** b.	Calculate total cars per manufacturer and show the result<br>
+        ** c.	Read the details of vehicles against Toyota manufacturer and print them<br>
+        ** d.	Arrange the cars according to the prices (highest-lowest) and display relevant information for first 5 rows only<br>
 
 
 
