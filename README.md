@@ -103,7 +103,7 @@
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab5"><h1>LAB - 5</h1></a>
 
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q1.py"><h3 align="center" >Question 1:  </h3></a>
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab5/Q1.py"><h3 align="center" >Question 1:  </h3></a>
     Write a Python program to filter a list of integers using Lambda.<br>
     Original list of integers:<br>
     [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<br>
@@ -112,22 +112,22 @@
     Odd numbers from the said list:<br>
     [1, 3, 5, 7, 9]<br>
 
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q2.py"><h3 align="center" >Question 2:  </h3></a>
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab5/Q2.py"><h3 align="center" >Question 2:  </h3></a>
     Design a code which reads text from the file “Alphabets.txt” and stores its data in reverse order in another file. For this you may upload the given text file on Google Collab’s session and define the path as:<br>
     file_path= ‘/Alphabets.txt’<br>
     The same convention can be followed for defining path of the resultant file (reversed text file).<br>
 
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q3.py"><h3 align="center" >Question 3:  </h3></a>
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab5/Q3.py"><h3 align="center" >Question 3:  </h3></a>
     Create an iterator that returns numbers, starting with 1, and each sequence will increase by one (returning 1,2,3,4,5 etc.):
 
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 4:  </h3></a>
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab5/Q4.py"><h3 align="center" >Question 4:  </h3></a>
     Create a class for rectangle shape that calculates its area based upon the length and width. Make a sub class of triangle called Trapezium, such that it inherits the functionality of rectangle class and implements area method of its own. Length and width should be defined in the constructor of rectangle class.<br>
     Area<br>
     Area of Rectangle =Length+Width<br>
     Area of Trapezium=½*(l+w)*h<br>
     After creation of the class, define the relevant attributes. Define a function for area computation and then a function for displaying area. Incorporate your knowledge of class and objects here.<br>
 
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q5.py"><h3 align="center" >Question 5:  </h3></a>
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab5/Q5.py"><h3 align="center" >Question 5:  </h3></a>
     Write a function AMCount() in Python, which should read each character of a text file STORY.TXT, should count and display the occurrence of alphabets A and M (including small cases a and m too).<br>
     For Example:<br>
     If the file content is as follows:<br>
