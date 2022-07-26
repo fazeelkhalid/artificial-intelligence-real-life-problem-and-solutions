@@ -81,10 +81,7 @@
 
 
 
-
-# ----------------------------------------------------------------
-#                                    LAB - 4
-# ----------------------------------------------------------------
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab3"><h1>LAB - 4</h1></a>
 
 # Question 1:
     For a list of integers, find square and cube for each value using lambda function.
