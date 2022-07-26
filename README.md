@@ -94,13 +94,16 @@
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 4:  </h3></a>
     Write a Python class named Circle constructed by a radius and two methods which will compute the area and the perimeter of a circle.
 
+
+
+
 <br>
 <br>
 <br>
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab5"><h1>LAB - 5</h1></a>
 
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 4:  </h3></a>
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 1:  </h3></a>
     Write a Python program to filter a list of integers using Lambda.<br>
     Original list of integers:<br>
     [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]<br>
@@ -109,13 +112,12 @@
     Odd numbers from the said list:<br>
     [1, 3, 5, 7, 9]<br>
 
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 4:  </h3></a>
-
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 2:  </h3></a>
     Design a code which reads text from the file “Alphabets.txt” and stores its data in reverse order in another file. For this you may upload the given text file on Google Collab’s session and define the path as:<br>
     file_path= ‘/Alphabets.txt’<br>
     The same convention can be followed for defining path of the resultant file (reversed text file).<br>
 
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 4:  </h3></a>
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 3:  </h3></a>
     Create an iterator that returns numbers, starting with 1, and each sequence will increase by one (returning 1,2,3,4,5 etc.):
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 4:  </h3></a>
@@ -123,7 +125,6 @@
     Area<br>
     Area of Rectangle =Length+Width<br>
     Area of Trapezium=½*(l+w)*h<br>
-
     After creation of the class, define the relevant attributes. Define a function for area computation and then a function for displaying area. Incorporate your knowledge of class and objects here.<br>
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4/Q4.py"><h3 align="center" >Question 4:  </h3></a>
