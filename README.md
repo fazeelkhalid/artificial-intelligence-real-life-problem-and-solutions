@@ -166,15 +166,15 @@
         (Libraries Involved: Numpy, Pandas)<br>
         Dataset: automobile_data.csv<br>
         Initial Steps: <br>
-*•	Import necessary libraries<br>
-*•	Upload/Read the csv file using pandas<br>
-*•	Review the dataset for identifying any missing values<br>
-*•	Observe the different attributes and entries<br>
+*	Import necessary libraries<br>
+*	Upload/Read the csv file using pandas<br>
+*	Review the dataset for identifying any missing values<br>
+*	Observe the different attributes and entries<br>
 <br>Questions<br>
-*a.	Find the most expensive car from the dataset and display its price<br>
-*b.	Calculate total cars per manufacturer and show the result<br>
-*c.	Read the details of vehicles against Toyota manufacturer and print them<br>
-*d.	Arrange the cars according to the prices (highest-lowest) and display relevant information for first 5 rows only<br>
+*	Find the most expensive car from the dataset and display its price<br>
+*	Calculate total cars per manufacturer and show the result<br>
+*	Read the details of vehicles against Toyota manufacturer and print them<br>
+*	Arrange the cars according to the prices (highest-lowest) and display relevant information for first 5 rows only<br>
 
 
 
