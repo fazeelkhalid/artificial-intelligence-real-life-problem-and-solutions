@@ -48,12 +48,9 @@
         'emp3': {'name': 'Brad', 'salary': 500}<br>
     }<br>
 
-
-
-
-
-
-
+<br>
+<br>
+<br>
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab3"><h1>LAB - 3</h1></a>
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab3/q1.py"><h3 align="center" >Question 1:  </h3></a>
@@ -78,10 +75,11 @@
 
 
 
+<br>
+<br>
+<br>
 
-
-
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab3"><h1>LAB - 4</h1></a>
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab4"><h1>LAB - 4</h1></a>
 
 # Question 1:
     For a list of integers, find square and cube for each value using lambda function.
