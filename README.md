@@ -51,6 +51,7 @@
 <br>
 <br>
 <br>
+
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab3"><h1>LAB - 3</h1></a>
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab3/q1.py"><h3 align="center" >Question 1:  </h3></a>
