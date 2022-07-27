@@ -197,7 +197,7 @@
     Make a pie chart using Matplotlib, similar to the one shown below:<br>
 
  
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab7/Lab7%20solution.ipynb"><h3 align="center" >Question 1:  </h3></a>
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab7/Lab7%20solution.ipynb"><h3 align="center" >Question 2:  </h3></a>
 Create a Histogram, Bar-graph, and Box plot as well.
 
 
@@ -213,8 +213,7 @@ Create a Histogram, Bar-graph, and Box plot as well.
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab8"><h1>LAB - 8</h1></a>
 
-
-# Question 1:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab8/Q1.py"><h3 align="center" >Question 1:  </h3></a>
     Run the given code and verify the solution. Change given expression to any other expression of your choice; change the parameters to increase the efficiency of code if possible. 
 
 # Question 2:
