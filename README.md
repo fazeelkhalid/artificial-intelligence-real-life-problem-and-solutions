@@ -231,9 +231,7 @@ Create a Histogram, Bar-graph, and Box plot as well.
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab9"><h1>LAB - 9</h1></a>
 
-
-
-# Question 1:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab9//Lab%20Manual%209.docx"><h3 align="center" >Question 1:  </h3></a>
     Load and Visualize the MNIST Dataset
     To get started, you can load and visualize the dataset using this code snippet in Python:
     fromkeras.datasets import mnist
@@ -252,7 +250,7 @@ Create a Histogram, Bar-graph, and Box plot as well.
     # show the figure
     pyplot.show()
 
-# Question 2:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab9//Lab%20Manual%209.docx"><h3 align="center" >Question 2:  </h3></a>
     Once you have made your predictions using the test split of the MNIST dataset, you are required to test the accuracy of your model on real-world data. 
     In order to achieve this task, you are required to:
     •	Make your own handwritten digits from 0-9 using paint or any other online tool available. 
