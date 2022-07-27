@@ -184,10 +184,11 @@
 
 
 
+<br>
+<br>
+<br>
 
-# ----------------------------------------------------------------
-#                                    LAB - 7
-# ----------------------------------------------------------------
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab7"><h1>LAB - 7</h1></a>
 
 
 # Question 1
