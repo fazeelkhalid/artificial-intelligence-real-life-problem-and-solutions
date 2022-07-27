@@ -216,7 +216,8 @@ Create a Histogram, Bar-graph, and Box plot as well.
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab8/Q1.py"><h3 align="center" >Question 1:  </h3></a>
     Run the given code and verify the solution. Change given expression to any other expression of your choice; change the parameters to increase the efficiency of code if possible. 
 
-# Question 2:
+
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab8/Q2.py"><h3 align="center" >Question 2:  </h3></a>
     Implement 8-queen problem using genetic algorithm. 
     For help regarding representation of states you may watch the following video:
     https://www.youtube.com/watch?v=vXotl0NPeUU
