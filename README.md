@@ -207,11 +207,12 @@ Create a Histogram, Bar-graph, and Box plot as well.
 
 
 
+<br>
+<br>
+<br>
 
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab8"><h1>LAB - 8</h1></a>
 
-# ----------------------------------------------------------------
-#                                    LAB - 8
-# ----------------------------------------------------------------
 
 # Question 1:
     Run the given code and verify the solution. Change given expression to any other expression of your choice; change the parameters to increase the efficiency of code if possible. 
