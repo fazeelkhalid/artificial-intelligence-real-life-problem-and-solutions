@@ -191,13 +191,14 @@
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab7"><h1>LAB - 7</h1></a>
 
 
-# Question 1
-	Make a Soccer PlayerWeight PieChart (20 Marks)
-    Consider the following dataset: fifa_data.csv
-    Make a pie chart using Matplotlib, similar to the one shown below:
+<a href="[https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab7/](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab7/Lab7%20solution.ipynb)"><h3 align="center" >Question 1:  </h3></a>
+	Make a Soccer PlayerWeight PieChart (20 Marks)<br>
+    Consider the following dataset: fifa_data.csv<br>
+    Make a pie chart using Matplotlib, similar to the one shown below:<br>
 
  
-# Question 2	Create a Histogram, Bar-graph, and Box plot as well.
+<a href="[https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab7/](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab7/Lab7%20solution.ipynb)"><h3 align="center" >Question 1:  </h3></a>
+Create a Histogram, Bar-graph, and Box plot as well.
 
 
 
