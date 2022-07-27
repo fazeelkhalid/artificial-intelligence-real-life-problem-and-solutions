@@ -225,16 +225,13 @@ Create a Histogram, Bar-graph, and Box plot as well.
 
 
 
+<br>
+<br>
+<br>
+
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab9"><h1>LAB - 9</h1></a>
 
 
-
-
-
-
-
-# ----------------------------------------------------------------
-#                                    LAB - 9
-# ----------------------------------------------------------------
 
 # Question 1:
     Load and Visualize the MNIST Dataset
