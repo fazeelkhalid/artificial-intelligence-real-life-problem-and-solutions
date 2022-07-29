@@ -273,12 +273,13 @@ Create a Histogram, Bar-graph, and Box plot as well.
 <br>
 <br>
 <br>
-<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab10"><h1>LAB - 19</h1></a>
 
-# Question 1:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab10"><h1>LAB - 10</h1></a>
+
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab10/lab10%20_%20Sol.py"><h3 align="center" >Question 1:  </h3></a>
     Online Retail Dataset is attached in the file. You need to load the dataset and preprocess it for missing values and outliers. You need to scale the data for better clusters. You are then required to perform Kmeans clustering on this dataset and try with different number of clusters and visualize it. 
     
-# Question 2:
+<a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab10/lab10%20_%20Sol.py"><h3 align="center" >Question 1:  </h3></a>
     Online Retail Dataset is attached in the file. You need to load the dataset and preprocess it for missing values and outliers. You need to scale the data for better clusters. You are then required to perform Hierarchical clustering on this dataset and try with different number of clusters and visualize it.
 
 
