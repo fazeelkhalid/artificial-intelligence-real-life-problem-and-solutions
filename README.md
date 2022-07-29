@@ -300,20 +300,27 @@ Create a Histogram, Bar-graph, and Box plot as well.
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab11"><h1>LAB - 11</h1></a>
 
 The general formula for multiple linear regression outcomes is as follows:
+<br>
 ![plot](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab11/1.png) <br>
 •	β0 is known as the intercept.<br>
 •	β0 to βi are known as coefficients.<br>
 •	x1 to xi are the features of the data set.<br>
 •	ε are the residual terms.<br>
 We can also represent the formula in vector notation<br>
+<br>
 ![plot](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab11/2.png)
+<br>
 The output equation would look like:<br>
+<br>
 ![plot](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab11/3.png)
 To find the coefficient values, we use the ordinary least square method which minimizes the sum of the square of the residuals. The formula for resulting coefficients in vector notation is:<br>
+<br>
 ![plot](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab11/4.png)<br>
+<br>
 The derivation of this formula is out of the scope of this lab.If you want to learn, read more about it here: https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf<br>
 The outcome of the algorithm, beta β with a hat (^) on top, is a vector containing all of the coefficients that can be used to make predictions by using the formula presented in the beginning for multiple linear regression.<br>
 Assuming that you have a number of predictions for some observed data, how can you measure how well the model predicted the ground truth? You can measure the accuracy of how well the multiple linear regression model performs by using a metric called r squared.<br>
+<br>
 ![plot](https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab11/5.png) <br>
 •	yi is one value of y at index i. <br>
 •	ŷ is pronounced as y hat and is the predicted values of y.<br>
