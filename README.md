@@ -210,6 +210,7 @@ Create a Histogram, Bar-graph, and Box plot as well.
 <br>
 <br>
 <br>
+
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab8"><h1>LAB - 8</h1></a>
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/blob/main/Lab8/Q1.py"><h3 align="center" >Question 1:  </h3></a>
