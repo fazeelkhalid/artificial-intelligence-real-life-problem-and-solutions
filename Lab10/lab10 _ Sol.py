@@ -1,4 +1,4 @@
-# q2
+# question2
 from sklearn.cluster import KMeans
 import pandas as pd
 from sklearn.cluster import AgglomerativeClustering
