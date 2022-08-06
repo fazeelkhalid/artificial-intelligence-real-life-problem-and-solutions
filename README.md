@@ -3,6 +3,9 @@
  All solved lab of FAST NUCES Lahore campus _ 2022 Spring
 
 
+
+
+
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab2"><h1>LAB - 2</h1></a>
 
 <a href="https://github.com/fazeelkhalid/artificial-intelligence-lab/tree/main/Lab2/Q1.py"><h3 align="center" >Question 1.1:  </h3></a>
