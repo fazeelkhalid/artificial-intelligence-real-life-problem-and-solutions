@@ -1,4 +1,4 @@
-# artificial-intelligence-real-life-problem-and-solutions
+L# artificial-intelligence-real-life-problem-and-solutions
 
  All solved lab of FAST NUCES Lahore campus _ 2022 Spring
 
