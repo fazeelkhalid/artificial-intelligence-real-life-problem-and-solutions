@@ -9,7 +9,6 @@ class queue:
     def dequeue(self):
         return self.__item.pop()
 
-    ;lkjhgfd
 
 q = queue()
 for i in range(1,10):
