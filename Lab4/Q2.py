@@ -1,4 +1,4 @@
-class queue:
+hjgfdclass queue:
     __item = []
     def __init__(self):
         self.__item = []
