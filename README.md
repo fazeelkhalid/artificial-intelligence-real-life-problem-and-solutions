@@ -1,23 +1,6 @@
 # artificial-intelligence-real-life-problem-and-solutions
 
 
-
-
-asdjnsajd
-dsadsaasdn,bajsd
-asd,jnasd
-asjkdbasjkdsakladsnsadklndsad
-dsabdjsab
-djkasbdsajb
-
-
-
-
-
-
-
-
-
  All solved lab of FAST NUCES Lahore campus _ 2022 Spring
 
 
