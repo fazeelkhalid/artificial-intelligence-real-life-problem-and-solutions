@@ -1,5 +1,23 @@
 # artificial-intelligence-real-life-problem-and-solutions
 
+
+
+
+
+dsadsa
+
+
+
+
+
+
+
+
+
+
+
+
+
  All solved lab of FAST NUCES Lahore campus _ 2022 Spring
 
 
